@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UAS 10116158</string>
+
+    <string name="profile">Profile</string>
+    <string name="contact">Contact</string>
+    <string name="friends">Friends</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+
+    <string name="slide_1_title">WELCOME</string>
+    <string name="slide_1_desc">Welcome to the UAS 10116158 app.\n Tugas Pengganti UAS\nAldy Ferdian Adam (10116158)\nIF-4</string>
+
+    <string name="slide_2_title">USER GUIDE</string>
+    <string name="slide_2_desc">Please sign up before use this application.</string>
+
+    <string name="slide_3_title">ENJOY</string>
+    <string name="slide_3_desc">Have a nice day</string>
+
+    <string name="username">\@username</string>
+
+</resources>
